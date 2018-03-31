@@ -9,7 +9,7 @@ sitemap:
 ---
 ## Me
 
-<span class="image right"><img src="{{ "/images/pic02.jpg" | absolute_url }}" alt="Me with a flower" /></span>
+<!--<span class="image right"><img src="{{ "/images/pic02.jpg" | absolute_url }}" alt="Me with a flower" /></span>-->
 
 ## Code
 <span class="image left"><img src="{{ "/images/pic03.jpg" | absolute_url }}" alt="" /></span>
