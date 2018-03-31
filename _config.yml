@@ -1,21 +1,20 @@
-# TODO(Kasper): remove/check/mark github defaults
-#
 # Site
 title:              Kasper Sauramo
 bio:                ''
-description:        "of code and things"
+description:        "of code, games and things"
 locale:             utf-8
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://kaspersauramo.me" # the base hostname & protocol for your site
 
 defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    permalink: "/blog/:title/"
-    layout: post
-    author:
+  -
+    scope:
+        path: ""
+        type: "posts"
+    values:
+        permalink: "/blog/:title/"
+        layout: "post"
+        author: "Kasper"
 
 # Jekyll
 permalink:          /blog/:title/
@@ -31,6 +30,19 @@ mathjax:            true
 sass:
   sass_dir:         _sass
   style:            compressed
+
+# Github Pages settings
+# lsi: false
+# safe: true
+# source: [your repo's top level directory]
+# incremental: false
+# highlighter: rouge
+# gist:
+#   noscript: false
+# kramdown:
+#   math_engine: mathjax
+#   syntax_highlighter: rouge
+
 
 # Comments
 disqus_shortname:   kaspersauramo
