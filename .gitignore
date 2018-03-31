@@ -1,6 +1,6 @@
 ### Jekyll ###
-_site
-.sass-cache
+_site/
+.sass-cache/
 .jekyll-metadata
 
 ### Vim ###
@@ -14,4 +14,3 @@ Session.vim
 *~
 # auto-generated tag files
 tags
-
