@@ -15,8 +15,8 @@ outlet for my exploratory and creative needs.
 
 ## Code
 I've been toying with code, tech and similar things ever since I can remember. It has had a huge impact in the way
-I see the world and how I think about most things. It has been hard to find a thing to focus in a place with so many
-interesting problems and areas!
+I see the world and how I think about the Universe. It has been hard to find a thing to focus on in a place with so many
+interesting areas and problems to solve!
 
 <!--## Games-->
 
