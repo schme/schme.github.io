@@ -8,12 +8,17 @@ sitemap:
     changefreq: weekly
 ---
 ## Me
-
-<!--<span class="image right"><img src="{{ "/images/pic02.jpg" | absolute_url }}" alt="Me with a flower" /></span>-->
+<span class="image right"><img src="{{ "/images/pic02.jpg" | absolute_url }}" alt="Me with a flower" /></span>
+I'm a 27 year old Computer Science student from Helsinki. In my life I like a mixture of technology and art.
+Luckily for me those are quite easy to combine. Games and other computer graphics related endeavours are the perfect
+outlet for my exploratory and creative needs.
 
 ## Code
-<span class="image left"><img src="{{ "/images/pic03.jpg" | absolute_url }}" alt="" /></span>
+I've been toying with code, tech and similar things ever since I can remember. It has had a huge impact in the way
+I see the world and how I think about most things. It has been hard to find a thing to focus in a place with so many
+interesting problems and areas!
 
-## Games
+<!--## Games-->
 
-## Things
+
+<!--## Things-->
