@@ -35,7 +35,7 @@ disqus_shortname:   default
 
 # Social
 # analytics-id:       "default"
-twitter:            KMschme
+twitter:            kmschme
 #facebook:           default
 #instagram:          default
 github:             schme
@@ -43,7 +43,7 @@ github:             schme
 # personal
 location:           Helsinki, Finland
 phone:              +358 40 846 7884
-email:              first.last@cs.helsinki.fi
+email:              mail@kaspersauramo.me
 
 # Gems
 gems:
