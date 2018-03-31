@@ -1,7 +1,9 @@
+# TODO(Kasper): remove/check/mark github defaults
+#
 # Site
 title:              Kasper Sauramo
 bio:                ''
-description:        ""
+description:        "of code and things"
 locale:             utf-8
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://kaspersauramo.me" # the base hostname & protocol for your site
@@ -31,10 +33,10 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   default
+disqus_shortname:   kaspersauramo
 
 # Social
-# analytics-id:       "default"
+analytics-id:       "UA-59997660-3"
 twitter:            kmschme
 #facebook:           default
 #instagram:          default
@@ -46,7 +48,7 @@ phone:              +358 40 846 7884
 email:              mail@kaspersauramo.me
 
 # Gems
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-sitemap
   - jekyll-feed
