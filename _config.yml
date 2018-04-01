@@ -50,8 +50,6 @@ disqus_shortname:   kaspersauramo
 # Social
 analytics-id:       "UA-59997660-3"
 twitter:            kmschme
-#facebook:           default
-#instagram:          default
 github:             schme
 
 # personal
@@ -61,6 +59,7 @@ email:              mail@kaspersauramo.me
 
 # Gems
 plugins:
+  - github-pages
   - jekyll-mentions
   - jekyll-sitemap
   - jekyll-feed
