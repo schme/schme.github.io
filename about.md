@@ -15,10 +15,14 @@ outlet for my exploratory and creative needs.
 
 ## Code
 I've been toying with code, tech and similar things ever since I can remember. It has had a huge impact in the way
-I see the world and how I think about the Universe. It has been hard to find a thing to focus on in a place with so many
+I see the world and how I think. It has been hard to find a thing to focus on in a place with so many
 interesting areas and problems to solve!
 
-<!--## Games-->
+## Games
+Games, especially the video kind,  have played a huge role in my life. I've always been playing games and I don't see it ever stopping.
+They can create narratives worthy of books, visuals that rival movies and companionship that lasts for decades. Games are neat.
 
-
-<!--## Things-->
+## Things
+I've done some other things as well! I used to be involved in local theatres, towards the end mainly as the only tech sound and light tech.
+At 8 years old I started playing piano and music has stayed with me. Sometimes I take a walk or drink coffee. I might draw a thing.
+Reading a book is nice. You get the gist.
