@@ -29,7 +29,7 @@ forces one to look at the thoughts and validate if they make sense or not. If th
 opportunity to rearrange and reform them until they do. This makes writing in itself beneficial. It is a skill
 however and needs conscious effort and time, not just a wish, to improve in.
 
-Writing for yourself shouldn't be an excuse to publish unpolished or bad content (a lot of the skill
+Writing for yourself shouldn't be an excuse to publish unpolished and useless content (a lot of the skill
 is in making it interesting, and getting better at it is one of the goals). Instead it should be used as
 motivation, to do something for yourself. When you remove the need for an audience you can focus on doing and can
 get started. Realising this has been helpful in many things.
