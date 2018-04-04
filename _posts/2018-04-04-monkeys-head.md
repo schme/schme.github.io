@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Monkey's head"
+title:      "A Monkey's Head"
 date:       2018-04-04
 category:   Computer graphics
 tags:       [computer graphics, kodelife, handmade hero, handmade network, shadertoy]
@@ -8,11 +8,11 @@ sitemap:
     priority: 0.7
     lastmod: 2018-04-04
     changefreq: weekly
-excerpt: "The discovery of Kodelife and a floating monkey's head. A head of a monkey. Suzanne. She has a name."
+excerpt: "The discovery of Kodelife and a floating monkey's head. The head of a monkey. Suzanne. She has a name."
 image: "/images/pic02.png"
 ---
 
-## Finding graphics
+## Tracing a ray
 Way back I made an offline raytracer and absolutely loved it. Making pretty things with applied math was
 extremely fun. As a base for it I reused my previous project's (Pong clone) windows platform code, where I had done everything from
 scratch, starting from getting a window running in Windows. Handmade Hero style (the similarities are still
@@ -67,12 +67,12 @@ to a photo negative devil from another dimension. It was beautiful!
 
 I set the linear interpolation to be proportional with music and added some ray marched fractal circles to the background for a spacey feel to finish up the end result.
 
-<figure class="image left">
+<figure class="image">
     <a href="http://www.youtube.com/watch?feature=player_embedded&v=FNkV6vaQMEk" target="_blank">
     <img src="http://img.youtube.com/vi/FNkV6vaQMEk/0.jpg" alt="Video showcase" border="10" />
     </a>
-    <figcaption>Youtube!</figcaption>
 </figure>
+
 
 ## From here
 
