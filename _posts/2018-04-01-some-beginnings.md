@@ -17,7 +17,7 @@ habit of using social medias; Most of the people I knew wouldn't really have und
 talking about. Being in a sort of vacuum with my thoughts and hobbies had a negative effect on my productivity
 and enjoyment, and I started feeling stuck and unmotivated.
 
-Once I found computer graphics, I found an easy way to document my progress (**print screen**) and I felt
+Once I found computer graphics, I found an easy way to document my progress `print screen` and I felt
 the difference it made. This, in addition to finding a really interesting and fulfilling subject recreated my
 enthusiasm. I had something concrete to show my progress with and it was in a form I could easily enjoy in the
 future, instead of a backlog of useless github repos not to be touched again.
