@@ -11,7 +11,7 @@ sitemap:
     changefreq: weekly
 ---
 ## Me
-<span class="image left"><img src="{{ "/images/about01.jpg" | absolute_url }}" alt="Me with a flower" /></span>
+<span class="image left"><img src="{{ "/images/about01.jpg" | absolute_url }}" alt="Picture of me" /></span>
 I'm a 27 year old Computer Science student from Helsinki. In my life I like a mixture of technology and art.
 Luckily those are quite easy to combine. Games and other computer graphics related endeavours are the perfect
 outlet for my exploratory and creative needs.
