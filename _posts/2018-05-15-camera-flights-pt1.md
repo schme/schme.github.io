@@ -6,9 +6,9 @@ category:   Game engine, opengl, computer graphics
 tags:       [game engine, opengl, computer graphics]
 sitemap:
     priority: 0.7
-    lastmod: 2018-05-14
+    lastmod: 2018-05-15
     changefreq: weekly
-excerpt: "Building a game engine, thoughts and pictures!"
+excerpt: "I've been making my first game engine and now that I have something to show for it, it's time for a writeup. I managed to enter closer to the previous century [...]"
 image: "/images/Kalm/intro.png"
 ---
 
