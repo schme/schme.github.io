@@ -16,7 +16,7 @@ image: "/images/Kalm/intro.png"
 <!--[//]: # (TODO(Kasper): Move gallery somewhere else, or hide and load with javascript)-->
 
 
-## Preface
+## [Part1]
 I've been making my first game engine and now that I have something to show for it, it's time for a writeup. I managed to enter closer to the previous century and I know there's going to be a lot of engine side coding in the near future, which won't really advance the graphical output at least in a direct way.
 
 ## The Dreams
@@ -120,7 +120,7 @@ Tests might work too.
 </p>
 </div>
 
-## /part1
+## [/part1]
 
 I didn't get very far, but it's been quite lengthy already. Time to continue in the next part!
 Quite opposite to the title I didn't even get to the flying part. I'll try to put together a video,
