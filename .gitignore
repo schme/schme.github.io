@@ -1,3 +1,6 @@
+*.bat
+
+
 ### Jekyll ###
 _site/
 .sass-cache/
