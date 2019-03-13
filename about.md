@@ -7,7 +7,7 @@ tags: [Kasper Sauramo]
 
 sitemap:
     priority: 0.7
-    lastmod: 2018-03-31
+    lastmod: 2019-03-13
     changefreq: weekly
 ---
 ## Me
