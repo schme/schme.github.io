@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Camera flights! (p1)"
+title:      "Camera flights!"
 date:       2018-05-15
 category:   Game engine, opengl, computer graphics
 tags:       [game engine, opengl, computer graphics]

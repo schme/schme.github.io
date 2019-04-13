@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Musings
-description: 50 thoughts of Kasper.
+description: sub 50 thoughts from Kasper.
 comments: false
 tags: [Kasper Sauramo, blog]
 sitemap:
