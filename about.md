@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Kasper Sauramo
+title: Kasper
 description: A short description of me
 comments: false
-tags: [Kasper Sauramo]
+tags: [Kasper]
 
 sitemap:
     priority: 0.7

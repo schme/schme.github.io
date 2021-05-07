@@ -132,7 +132,7 @@ program and how it's structured. Glad settings include just the OpenGL4.3 Core f
 If you have questions or ideas, send me an email! :)
 
 
-[glfw]: http://www.glfw.org/                                                        "glfw"
+[glfw]: https://www.glfw.org/                                                        "glfw"
 [stb]: https://github.com/nothings/stb                                              "stb"
 [tinyply]: https://github.com/ddiakopoulos/tinyply                                  "tinyply"
 [kalm_gh]: https://github.com/schme/KalmEngine                                      "kalmengine"

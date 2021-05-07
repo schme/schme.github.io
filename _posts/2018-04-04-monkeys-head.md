@@ -68,8 +68,8 @@ to a photo negative devil from another dimension. It was beautiful!
 I set the linear interpolation to be proportional with music and added some ray marched fractal circles to the background for a spacey feel to finish up the end result.
 
 <figure class="image video_link">
-    <a href="http://www.youtube.com/watch?feature=player_embedded&v=FNkV6vaQMEk" target="_blank">
-    <img class="video_link" src="http://img.youtube.com/vi/FNkV6vaQMEk/0.jpg" alt="Video showcase" border="10" />
+    <a href="https://www.youtube.com/watch?feature=player_embedded&v=FNkV6vaQMEk" target="_blank">
+    <img class="video_link" src="https://img.youtube.com/vi/FNkV6vaQMEk/0.jpg" alt="Video showcase" border="10" />
     </a>
 </figure>
 

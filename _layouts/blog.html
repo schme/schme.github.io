@@ -17,7 +17,7 @@
 
             <!-- Header -->
             <header id="header">
-                <a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+                <a href="{{ "/" | relative_url }}" class="logo">{{site.title}}</a>
             </header>
 
 
@@ -27,8 +27,8 @@
                 {% include nav.html %}
 
                 <ul class="icons">
-                    <li><a href="{{ "feed.xml" | absolute_url }}" class="icon" rel="nofollow">
-                            <img class="rss" src="{{ "assets/icon/rss.png" | absolute_url }}" alt="rss" />
+                    <li><a href="{{ "feed.xml" | relative_url }}" class="icon" rel="nofollow">
+                            <img class="rss" src="{{ "assets/icon/rss.png" | relative_url }}" alt="rss" />
                     </a></li>
                     <li><a href="https://twitter.com/{{site.twitter}}" class="icon fa-twitter" rel="nofollow"><span class="label">Twitter</span></a></li>
                     <li><a href="https://github.com/{{site.github}}" class="icon fa-github" rel="nofollow"><span class="label">GitHub</span></a></li>
@@ -49,12 +49,12 @@
                     <article>
                         <header>
                             <span class="date">{{ post.date | date_to_string }}</span>
-                            <h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</h2>
+                            <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</h2>
                         </header>
-                        <a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+                        <a href="{{ post.url | relative_url }}" class="image fit"><img src="{{ post.image | relative_url }}" alt="" /></a>
                         <p>{{ post.excerpt }}</p>
                         <ul class="actions">
-                            <li><a href="{{ post.url | absolute_url }}" class="button">Read</a></li>
+                            <li><a href="{{ post.url | relative_url }}" class="button">Read</a></li>
                         </ul>
                     </article>
                     {% endfor %}
@@ -70,7 +70,6 @@
 
         <!-- Scripts -->
         {% include scripts-main.html %}
-        {% include tracking.html %}
 
     </body>
 </html>

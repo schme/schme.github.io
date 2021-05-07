@@ -1,10 +1,10 @@
 # Site
-title:              Kasper Sauramo
+title:              Kasper
 bio:                ''
 description:        "of code, games and things"
 locale:             utf-8
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://kaspersauramo.me" # the base hostname & protocol for your site
+url: "https://kaspersauramo.me" # the base hostname & protocol for your site
 
 defaults:
   -
