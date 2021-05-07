@@ -29,7 +29,7 @@ sitemap:
 
             <!-- Intro -->
             <div id="intro">
-                <span class="image fit"><img src="{{ "/images/Kalm_logo_t.png" | absolute_url}}" alt="Kalm logo" /></span>
+                <span class="image fit"><img src="{{ "/images/Kalm_logo_t.png" | relative_url}}" alt="Kalm logo" /></span>
                 <h1>{{site.title}}</h1>
                 <h2>Of code, games and things </h2>
                 <p>The place where I left my keys</p>
@@ -40,7 +40,7 @@ sitemap:
 
             <!-- Header -->
             <header id="header">
-                <a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+                <a href="{{ "/" | relative_url }}" class="logo">{{site.title}}</a>
             </header>
 
             <!-- Nav -->
@@ -49,8 +49,8 @@ sitemap:
                 {% include nav.html %}
 
                 <ul class="icons">
-                    <li><a href="{{ "feed.xml" | absolute_url }}" class="icon" rel="nofollow">
-                            <img class="rss" src="{{ "assets/icon/rss.png" | absolute_url }}" alt="rss" />
+                    <li><a href="{{ "feed.xml" | relative_url }}" class="icon" rel="nofollow">
+                            <img class="rss" src="{{ "assets/icon/rss.png" | relative_url }}" alt="rss" />
                     </a></li>
                     <li><a href="https://twitter.com/{{site.twitter}}" class="icon fa-twitter" rel="nofollow"><span class="label">Twitter</span></a></li>
                     <li><a href="https://github.com/{{site.github}}" class="icon fa-github" rel="nofollow"><span class="label">GitHub</span></a></li>
@@ -67,7 +67,7 @@ sitemap:
                             <p><strong>Your <strike>daily</strike> mindblowing quote</strong><br />---------------------------------</p>
                             <p><q>I think that it's extraordinarily important that we in computer science keep fun in computing.</q>-Alan Perlis</p>
                         </blockquote>
-                    <a href="#" class="image main"><img src="{{ "images/index01.jpg" | absolute_url }}" alt="" /></a>
+                    <a href="#" class="image main"><img src="{{ "images/index01.jpg" | relative_url }}" alt="" /></a>
                 </article>
 
                 <!-- Posts -->
@@ -77,12 +77,12 @@ sitemap:
                     <article>
                         <header>
                             <span class="date">{{ post.date | date_to_string }}</span>
-                            <h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</h2>
+                            <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</h2>
                         </header>
-                        <a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+                        <a href="{{ post.url | relative_url }}" class="image fit"><img src="{{ post.image | relative_url }}" alt="" /></a>
                         <p>{{ post.excerpt }}</p>
                         <ul class="actions">
-                            <li><a href="{{ post.url | absolute_url }}" class="button">Read</a></li>
+                            <li><a href="{{ post.url | relative_url }}" class="button">Read</a></li>
                         </ul>
                     </article>
                     {% endfor %}
@@ -92,7 +92,7 @@ sitemap:
                 <!-- Footer -->
                 <footer>
                     <ul class="actions">
-                        <li><a href="{{ "/blog/" | absolute_url }}" class="button">Blog</a></li>
+                        <li><a href="{{ "/blog/" | relative_url }}" class="button">Blog</a></li>
                     </ul>
                 </footer>
 

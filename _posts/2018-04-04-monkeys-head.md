@@ -56,7 +56,7 @@ I had an idea about using a tai chi video and combine that with other effects. T
 in a music visual. Unfortunately Kodelife v0.5.3.1 doesn't support video importing yet (it's in the Mac version however and
 should be implemented fairly quickly in Windows). That wrecked my plan, but I decided to go forward with the idea anyway and see where I land.
 
-<span class="image right"><img src="{{ "/images/pic03.png" | absolute_url }}" alt="Edge detection" style="width: 320px;"/></span>
+<span class="image right"><img src="{{ "/images/pic03.png" | relative_url }}" alt="Edge detection" style="width: 320px;"/></span>
 
 First thing I probably want some form of edge detection, which I hadn't done before. After some research I made a [test](https://www.shadertoy.com/view/XsVyWW)
 in Shadertoy. It worked! Playing around with the edge color and how much of the original image you keep in the final result creates some fun effects.

@@ -16,7 +16,7 @@
 
             <!-- Header -->
             <header id="header">
-                <a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+                <a href="{{ "/" | relative_url }}" class="logo">{{site.title}}</a>
             </header>
 
             <!-- Nav -->
@@ -25,8 +25,8 @@
                 {% include nav.html %}
 
                 <ul class="icons">
-                    <li><a href="{{ "feed.xml" | absolute_url }}" class="icon" rel="nofollow">
-                            <img class="rss" src="{{ "assets/icon/rss.png" | absolute_url }}" alt="rss" />
+                    <li><a href="{{ "feed.xml" | relative_url }}" class="icon" rel="nofollow">
+                            <img class="rss" src="{{ "assets/icon/rss.png" | relative_url }}" alt="rss" />
                     </a></li>
                     <li><a href="https://twitter.com/{{site.twitter}}" class="icon fa-twitter" rel="nofollow"><span class="label">Twitter</span></a></li>
                     <li><a href="https://github.com/{{site.github}}" class="icon fa-github" rel="nofollow"><span class="label">GitHub</span></a></li>
@@ -44,7 +44,7 @@
                 <!-- Footer -->
                 <footer>
                     <ul class="actions">
-                        <li><a href="{{ "/blog/" | absolute_url }}" class="button">Blog</a></li>
+                        <li><a href="{{ "/blog/" | relative_url }}" class="button">Blog</a></li>
                     </ul>
                 </footer>
             </div>

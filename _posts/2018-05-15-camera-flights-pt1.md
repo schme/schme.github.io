@@ -37,47 +37,47 @@ the image to open similar options. The pictures should be in chronological order
 <hr />
 
 <div class="box"><p>
-<span class="image fit"><img src="{{ "/images/Kalm_logo_padded.png" | absolute_url }}" alt="" /></span>
+<span class="image fit"><img src="{{ "/images/Kalm_logo_padded.png" | relative_url }}" alt="" /></span>
 <div class="box alt">
 <div class="row 50% uniform">
-<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images1.png" | absolute_url }}" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images2.png" | absolute_url }}" alt="" /></span></div>
-<div class="4u$"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images3.png" | absolute_url }}" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images1.png" | relative_url }}" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images2.png" | relative_url }}" alt="" /></span></div>
+<div class="4u$"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images3.png" | relative_url }}" alt="" /></span></div>
 <!-- Break -->
-<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images4.png" | absolute_url }}" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images5.png" | absolute_url }}" alt="" /></span></div>
-<div class="4u$"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images6.png" | absolute_url }}" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images4.png" | relative_url }}" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images5.png" | relative_url }}" alt="" /></span></div>
+<div class="4u$"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images6.png" | relative_url }}" alt="" /></span></div>
 <!-- Break -->
-<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images7.png" | absolute_url }}" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images8.png" | absolute_url }}" alt="" /></span></div>
-<div class="4u$"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images9.png" | absolute_url }}" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images7.png" | relative_url }}" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images8.png" | relative_url }}" alt="" /></span></div>
+<div class="4u$"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images9.png" | relative_url }}" alt="" /></span></div>
 <!-- Break -->
-<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images10.png" | absolute_url }}" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images11.png" | absolute_url }}" alt="" /></span></div>
-<div class="4u$"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images12.png" | absolute_url }}" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images10.png" | relative_url }}" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images11.png" | relative_url }}" alt="" /></span></div>
+<div class="4u$"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images12.png" | relative_url }}" alt="" /></span></div>
 <!-- Break -->
-<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images13.png" | absolute_url }}" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images14.png" | absolute_url }}" alt="" /></span></div>
-<div class="4u$"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images15.png" | absolute_url }}" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images13.png" | relative_url }}" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images14.png" | relative_url }}" alt="" /></span></div>
+<div class="4u$"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images15.png" | relative_url }}" alt="" /></span></div>
 <!-- Break -->
-<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images16.png" | absolute_url }}" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images17.png" | absolute_url }}" alt="" /></span></div>
-<div class="4u$"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images18.png" | absolute_url }}" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images16.png" | relative_url }}" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images17.png" | relative_url }}" alt="" /></span></div>
+<div class="4u$"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images18.png" | relative_url }}" alt="" /></span></div>
 <!-- Break -->
-<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images19.png" | absolute_url }}" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images20.png" | absolute_url }}" alt="" /></span></div>
-<div class="4u$"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images21.png" | absolute_url }}" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images19.png" | relative_url }}" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images20.png" | relative_url }}" alt="" /></span></div>
+<div class="4u$"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images21.png" | relative_url }}" alt="" /></span></div>
 <!-- Break -->
-<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images22.png" | absolute_url }}" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images23.png" | absolute_url }}" alt="" /></span></div>
-<div class="4u$"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images24.png" | absolute_url }}" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images22.png" | relative_url }}" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images23.png" | relative_url }}" alt="" /></span></div>
+<div class="4u$"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images24.png" | relative_url }}" alt="" /></span></div>
 <!-- Break -->
-<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images25.png" | absolute_url }}" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images26.png" | absolute_url }}" alt="" /></span></div>
-<div class="4u$"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images27.png" | absolute_url }}" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images25.png" | relative_url }}" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images26.png" | relative_url }}" alt="" /></span></div>
+<div class="4u$"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images27.png" | relative_url }}" alt="" /></span></div>
 <!-- Break -->
-<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images28.png" | absolute_url }}" alt="" /></span></div>
-<div class="4u$"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images29.png" | absolute_url }}" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images28.png" | relative_url }}" alt="" /></span></div>
+<div class="4u$"><span class="image fit"><img src="{{ "/images/Kalm/gallery/images29.png" | relative_url }}" alt="" /></span></div>
 </div>
 </div>
 </p></div>
